@@ -1,0 +1,100 @@
+
+.aa {
+    background-color: #f1f1f0;
+    justify-content: space-between;
+    padding-left: 40vw;
+    border: solid 1px #9ca4ab;
+    padding-top: 2px;
+    padding-bottom: 5px;
+
+}
+.all{
+    background-color: black;
+    padding: 0 35px;
+}
+.aa a{
+    padding-left: 25px;
+    font-size: 12px;
+}
+.ab {
+    background-color: rgb(245, 242, 237);
+    display: flex;
+    padding-right: 50px;
+    padding-left: 50px;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+}
+.abb {
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+.abb p{
+    padding: 20px;
+    margin-top: 10px;
+}
+.abc {
+    padding: 20px;
+}
+.abd {
+    padding: 20px;
+}
+.ac {
+    align-items: center;
+}
+.aci {
+    width: 93vw;
+    height: 45vh;
+    margin: 1px;
+}
+.ad {
+    padding: 0 10vw;
+    background-color: white;
+}
+.adcard {
+    border-radius: '25px 25px 3px 3px';
+    width: 75vw;
+    margin-top: -40px;
+}
+.ada {
+    justify-content: space-between;
+    display: flex;
+    background-color: #7DF9FF;
+    width: 75vw;
+}
+.adaa p{
+    font-size: 12px;
+}
+.ae {
+    background-color: #F0FFFF;
+}
+.af {
+    background-color: red;
+}
+.ag {
+    background-color: bisque;
+}
+.ah {
+    background-color: lightsalmon;
+}
+.ai {
+    background-color: aquamarine;
+}
+.aj {
+    background-color: darkgoldenrod;
+}
+.ak {
+    background-color: blueviolet;
+}
+.al {
+    background-color: greenyellow;
+}
+.am {
+    background-color: peachpuff;
+}
+.an{
+    background-color: antiquewhite;
+}
