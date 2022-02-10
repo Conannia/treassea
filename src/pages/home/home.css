@@ -51,40 +51,134 @@
     margin: 1px;
 }
 .ad {
-    padding: 0 10vw;
-    background-color: white;
+    padding-right: 14vw;
+    padding-left: 12vw;
+    background-color: rgb(241, 236, 236);
+    padding-bottom: 65px;
+    
 }
 .adcard {
     border-radius: '25px 25px 3px 3px';
-    width: 75vw;
-    margin-top: -40px;
+    width: 70vw;
+    margin-top: -45px;
 }
 .ada {
     justify-content: space-between;
     display: flex;
-    background-color: #7DF9FF;
-    width: 75vw;
+    background-color: #c3edf0;
+    width: 70vw;
 }
 .adaa p{
     font-size: 12px;
 }
+.adb {
+    display: flex;
+    justify-content: space-around;
+    font-size: 12px;
+}
+.adc {
+    margin: 20px;
+    width: 10vw;
+    padding-left: 50vw;
+}
+.adca {
+    width: 10vw;
+    border-radius: none;
+}
+.adbc {
+    width: 25vw;
+}
 .ae {
     background-color: #F0FFFF;
+    padding: 50px;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-items: center;
 }
+.aea {
+    text-align: center;
+}
+.aea p{
+    font-size: 12px;
+    
+}
+.aeb {
+    display: flex;
+    margin: 0 6vw;
+}
+.aeba {
+    background-color: rgb(241, 236, 236);
+    width: 400px;
+    height: 350px;
+    border: solid 1px rgb(194, 186, 186);
+    border-radius: 3%;
+    margin: 40px;
+    padding-left: 40px;
+}
+.aebb {
+    margin: 40px 0px;
+    justify-content: space-between;
+    font-size: 10px;
+}
+.aebba {
+    display: flex;
+    margin-bottom: 5px;
+}
+.promo {
+    width: 20vw;
+    margin-left: 30px;
+}
+.kotakkecil {
+    background-color: rgb(241, 236, 236);
+    width: 70px;
+    height: 65px;
+    border: solid 1px rgb(228, 223, 223);
+    border-radius: 5%;
+}
+
 .af {
-    background-color: red;
+    background-color: white;
+    text-align: center;
+    padding: 25px;
 }
 .ag {
     background-color: bisque;
+    display: flex;
+    padding: 10px;
 }
 .ah {
-    background-color: lightsalmon;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+}
+
+.aha {
+    padding: 3px;
+    width: 40vw;
+    height: 40vh;
+}
+.ahb {
+    padding: 3px;
+    width: 40vw;
+    height: 40vh;
 }
 .ai {
-    background-color: aquamarine;
+    background-color:  #F0FFFF;
+    text-align: center;
+}
+.mitra {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+.imgmit {
+    margin: 10px;
 }
 .aj {
     background-color: darkgoldenrod;
+    text-align: center;
 }
 .ak {
     background-color: blueviolet;
